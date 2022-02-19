@@ -1,5 +1,5 @@
 {
     "ver": 1,
-    "bundle":"https://aloxo.xyz/webcnew/bundle/",
-    "appInfo": "https://aloxo.xyz/webcnew/config/appInfo_web.json"
+    "bundle":"http://192.168.0.101/bundle-remote/",
+    "appInfo": "https://resource.choang.vip/config/appInfo_web.json
 }
