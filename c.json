@@ -1,5 +1,5 @@
 {
     "ver": 1,
-    "bundle":"http://192.168.0.101:8888/bundle-remote/",
+    "bundle":"http://192.168.0.100:8888/bundle-remote/",
     "appInfo": "https://resource.choang.vip/config/appInfo_web.json"
 }
